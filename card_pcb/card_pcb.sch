@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:card_pcb-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
@@ -495,7 +496,7 @@ U 1 1 5BC3E075
 P 7900 4675
 F 0 "G5" H 7900 3642 60  0001 C CNN
 F 1 "LOGO" H 7900 5708 60  0001 C CNN
-F 2 "mylogos:fungi_2" H 7900 4675 50  0001 C CNN
+F 2 "mylogos:fungi_2_trim" H 7900 4675 50  0001 C CNN
 F 3 "" H 7900 4675 50  0001 C CNN
 	1    7900 4675
 	1    0    0    -1  

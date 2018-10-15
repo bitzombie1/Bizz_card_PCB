@@ -489,4 +489,15 @@ F 3 "~" H 4775 5225 50  0001 C CNN
 	1    4575 5225
 	0    -1   -1   0   
 $EndComp
+$Comp
+L fungi_1:LOGO G5
+U 1 1 5BC3E075
+P 7900 4675
+F 0 "G5" H 7900 3642 60  0001 C CNN
+F 1 "LOGO" H 7900 5708 60  0001 C CNN
+F 2 "mylogos:fungi_2" H 7900 4675 50  0001 C CNN
+F 3 "" H 7900 4675 50  0001 C CNN
+	1    7900 4675
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
